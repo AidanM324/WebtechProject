@@ -6,24 +6,26 @@
 }
 
 #main1-div{
-    width: 100%;
+    
     margin-bottom: 10px;
 }
 
 #logo-div{
-    width: 50%;
+    width: 100%;
     background-color: grey;
     min-height:50px;
     line-height:50px;
-    float: left;
+    float: center;
+    text-align: center;
+    margin-bottom: 10px;
 }
 
 #nav-div{
-    width: 50%;
+    width: 100%;
     background-color: grey;
     min-height:50px;
     line-height:50px;
-    float: right;
+    text-align: left;
 }
 
 #header-div{
