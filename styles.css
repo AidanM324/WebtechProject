@@ -57,7 +57,7 @@
     text-align: center;
     background-color: white;
     float: left;
-    
+    border-radius: 10%;
 }
 
 #Box2-div{
@@ -68,6 +68,8 @@
     background-color: palegoldenrod;
     float: left;
     margin-left: 5%;
+    border-radius: 10%;
+    height: 450px;
 } 
 
 #Box3-div{
@@ -77,6 +79,8 @@
     text-align: center;
     background-color: palegoldenrod;
     float: right;
+    border-radius: 10%;
+    height: 450px;
 }
 
 .clearfix::after{
@@ -92,4 +96,11 @@
     text-align: left;
     background-color: white;
     font-size: smaller;
+}
+#side1-div{
+    width: 100%;
+    margin-bottom: 10px;
+    color: black;
+    border-radius: 10%;
+   
 }
