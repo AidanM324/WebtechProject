@@ -31,10 +31,9 @@
 #header-div{
     width: 100%;
     background-color: lightgray;
-    min-height: 100px;
-    line-height:100px;
+    line-height:25px;
     text-align: left;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 #textarea-div{
@@ -52,16 +51,16 @@
 }
 
 #Box1-div{
-    width: 30%;
+    width: 31%;
     min-height: 400px;
     line-height: 400px;
     text-align: center;
-    background-color: palegoldenrod;
+    background-color: white;
     float: left;
 }
 
 #Box2-div{
-    width: 30%;
+    width: 31%;
     min-height: 400px;
     line-height: 400px;
     text-align: center;
@@ -71,7 +70,7 @@
 } 
 
 #Box3-div{
-    width: 30%;
+    width: 31%;
     min-height: 400px;
     line-height: 400px;
     text-align: center;
