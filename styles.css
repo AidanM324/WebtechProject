@@ -57,6 +57,7 @@
     text-align: center;
     background-color: white;
     float: left;
+    
 }
 
 #Box2-div{
@@ -88,7 +89,7 @@
     width: 100%;
     min-height: 50px;
     line-height: 50px;
-    text-align: center;
-    background-color: grey;
+    text-align: left;
+    background-color: white;
     font-size: smaller;
 }
